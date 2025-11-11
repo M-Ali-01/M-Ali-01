@@ -8,6 +8,27 @@
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=400&lines=🌐+Connect+With+Me">
+</p>
+
+<p align="center">
+  <a href="https://wa.me/923391681608">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-brightgreen?logo=whatsapp&style=for-the-badge">
+  </a>
+  <a href="mailto:mohammadalizahid.bss@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail&style=for-the-badge">
+  </a>
+  <a href="[https://linkedin.com/in/m-ali-zahid](https://www.linkedin.com/in/mohammad-ali-zahid-%F0%9F%92%8E-649b1b278/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="https://github.com/M-Ali-01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge">
+  </a>
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=400&lines=🧭+About+Me">
 </p>
 
@@ -34,7 +55,7 @@ My focus is on bridging **business needs** with **technology**, ensuring smooth 
 | **Operating Systems** | Ubuntu, Windows Server |
 | **Version Control** | Git, GitHub |
 | **Development Tools** | VS Code, PyCharm, Docker |
-| **Documentation** | Notion, Confluence, Google Workspace |
+| **Documentation** | Notion, Confluence, Google Workspace, Microsoft Tools |
 
 ---
 
@@ -111,7 +132,7 @@ University of Punjab — Lahore
 </p>
 
 <p align="center">
-  <a href="https://wa.me/9233916816087">
+  <a href="https://wa.me/923391681608">
     <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-brightgreen?logo=whatsapp&style=for-the-badge">
   </a>
   <a href="mailto:mohammadalizahid.bss@gmail.com">
@@ -127,5 +148,5 @@ University of Punjab — Lahore
 
 ---
 
-⭐ *“ERP success is 70% people and 30% technology.”*  
-📘 *Written by **M Ali Zahid***  
+                  ⭐ *“ERP success is 70% people and 30% technology.”*  
+                  📘 *Written by **M Ali Zahid***  
