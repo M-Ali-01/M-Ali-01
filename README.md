@@ -96,8 +96,13 @@ University of Punjab — Lahore
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M-Ali-01&show_icons=true&theme=midnight-purple" height="165">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M-Ali-01&layout=compact&theme=midnight-purple" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M-Ali-01&layout=compact&langs_count=8&theme=midnight-purple" height="165">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Ali-01&theme=midnight-purple&hide_border=false&date_format=j%20M%5B%20Y%5D" height="180">
+</p>
+
 
 ---
 
