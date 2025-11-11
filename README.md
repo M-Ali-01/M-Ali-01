@@ -7,3 +7,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-orange?logo=ubuntu)
 ![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin)
+![Profile Views](https://komarev.com/ghpvc/?username=malizahid&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/malizahid?label=Followers&style=social)
