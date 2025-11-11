@@ -9,3 +9,7 @@
 ![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin)
 ![Profile Views](https://komarev.com/ghpvc/?username=malizahid&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/malizahid?label=Followers&style=social)
+
+![Odoo Functional Consultant](https://img.shields.io/badge/Role-Odoo%20Functional%20Consultant-purple)
+![ERP Specialist](https://img.shields.io/badge/Expertise-ERP%20Implementation-green)
+![Industry](https://img.shields.io/badge/Industry-Business%20Automation-blue)
