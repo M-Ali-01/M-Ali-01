@@ -1,44 +1,42 @@
-<div align="center">
-
-# 👋 Hi, I'm **M Ali Zahid**  
-### 💼 *Odoo Functional Consultant | ERP Implementation Specialist | Business Process Analyst*  
+# 👋 Hi, I'm **M Ali Zahid**
+💼 *Odoo Functional Consultant | ERP & Business Process Expert*  
 
 ---
 
-### 🛠️ Tech Stack
-![Odoo](https://img.shields.io/badge/Odoo-17.0-blueviolet?logo=odoo)
-![Python](https://img.shields.io/badge/Python-3.10-yellow?logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-orange?logo=ubuntu)
-![ERP](https://img.shields.io/badge/ERP-Implementation-success)
-![GitHub](https://img.shields.io/badge/GitHub-Automation-black?logo=github)
+## 🧩 Expertise  
+- Odoo Functional Implementation  
+- Accounting, Sales, Purchase, Inventory  
+- Process Optimization & ERP Customization  
+- Cross-Functional Team Collaboration  
 
 ---
 
-### 💼 Current Role
-**Odoo Functional Consultant @ Inter Connection Technologies**  
-📍 *Lahore, Pakistan*  
-📅 *2019 – Present*  
-
-🚀 Delivering end-to-end ERP implementations, bridging business and technology with Odoo.  
-
----
-
-### 📊 GitHub Insights  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Ali-01&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ali-01&layout=compact&theme=radical)
+## ⚙️ Tech Stack  
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| ERP | Odoo 16,Odoo 17,Odoo 18, Odoo 19, Enterprise & Community |
+| Programming | Python, XML, JavaScript |
+| Databases | PostgreSQL |
+| DevOps | Ubuntu Server, Docker |
+| Tools | GitHub, VS Code, Slack |
 
 ---
 
-### 🌐 Connect With Me  
-<a href="https://wa.me/923391681608"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-brightgreen?style=for-the-badge&logo=whatsapp"></a>  
-<a href="mailto:mohammadalizahid.bss@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"></a>  
-<a href="https://www.linkedin.com/in/mohammad-ali-zahid-%F0%9F%92%8E-649b1b278/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin"></a>  
-<a href="https://github.com/M-Ali-01"><img src="https://img.shields.io/badge/GitHub-View%20Profile-black?style=for-the-badge&logo=github"></a>  
+## 📈 Career Highlights  
+- 🏆 Delivered 20+ full-cycle ERP implementations  
+- 🤝 Worked with international clients in manufacturing & services  
+- 🔍 Expertise in multi-company, multi-currency setups  
+- 💬 Conducted user training & process documentation  
+
+---
+
+## 🌍 Connect With Me  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-brightgreen?logo=whatsapp&style=for-the-badge)](https://wa.me/923391681608)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/m-ali-zahid](https://www.linkedin.com/in/mohammad-ali-zahid-%F0%9F%92%8E-649b1b278/))
+[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge)](mailto:mohammadalizahid.bss@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge)](https://github.com/M-Ali-01)
 
 ---
 
 ⭐ *“ERP success is 70% people and 30% technology.”*  
-📘 *Written by M Ali Zahid*  
-
-</div>
+📘 *Written by M Ali Zahid*
