@@ -2,13 +2,13 @@
 <h3 align="center">💼 Odoo Functional Consultant | ERP Implementation Expert | Business Process Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=6C63FF&center=true&vCenter=true&width=600&lines=Helping+Businesses+Automate+with+Odoo;ERP+Implementation+Specialist;Functional+Consultant+%26+Project+Leader;Business+Process+Reengineering+Expert;Transforming+Ideas+into+Efficient+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Helping+Businesses+Automate+with+Odoo;ERP+Implementation+Specialist;Functional+Consultant+%26+Project+Leader;Business+Process+Reengineering+Expert;Transforming+Ideas+into+Efficient+Systems"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=600&lines=🧭+About+Me+|"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=400&lines=🧭+About+Me">
 </p>
 
 I am an **Odoo Functional Consultant** with over **5 years of experience** in implementing complete ERP systems for diverse industries.  
@@ -23,12 +23,12 @@ My focus is on bridging **business needs** with **technology**, ensuring smooth 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF9100&center=true&vCenter=true&width=600&lines=⚙️+Tech+Stack+%26+Tools+|"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=⚙️+Tech+Stack+%26+Tools">
 </p>
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
-| **ERP Expertise** | Odoo 17, Odoo 18. Odoo 19 (Community & Enterprise) |
+| **ERP Expertise** | Odoo 17, Odoo 18, Odoo 19 (Community & Enterprise) |
 | **Programming** | Python, XML, JavaScript |
 | **Database Management** | PostgreSQL |
 | **Operating Systems** | Ubuntu, Windows Server |
@@ -39,7 +39,7 @@ My focus is on bridging **business needs** with **technology**, ensuring smooth 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FFD600&center=true&vCenter=true&width=600&lines=🧩+Functional+Expertise+|"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=400&lines=🧩+Functional+Expertise">
 </p>
 
 | Department | Odoo Modules | Key Capabilities |
@@ -55,7 +55,19 @@ My focus is on bridging **business needs** with **technology**, ensuring smooth 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00B0FF&center=true&vCenter=true&width=600&lines=💼+Experience+|"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=03A9F4&center=true&vCenter=true&width=400&lines=🧠+Key+Strengths">
+</p>
+
+- 🔹 End-to-end **ERP implementation and rollout**  
+- 🔹 Business process optimization through **workflow design**  
+- 🔹 System customization coordination between functional and technical teams  
+- 🔹 Strong **analytical skills** with data-driven decision making  
+- 🔹 Excellent **communication and client presentation** skills  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=400&lines=💼+Experience">
 </p>
 
 ### 🏢 **Odoo Functional Consultant — Inter Connection Technologies**  
@@ -70,27 +82,27 @@ My focus is on bridging **business needs** with **technology**, ensuring smooth 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=AA00FF&center=true&vCenter=true&width=600&lines=🎓+Education+|"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFC107&center=true&vCenter=true&width=400&lines=🎓+Education">
 </p>
 
 🎓 **Bachelor’s in Business & IT**  
-University of  Punjab — Lahore  
+University of Punjab — Lahore  
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF1744&center=true&vCenter=true&width=600&lines=📊+GitHub+Activity+|"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=400&lines=📊+GitHub+Activity">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ali-01&show_icons=true&theme=midnight-purple" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ali-01&layout=compact&theme=midnight-purple" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M-Ali-01&show_icons=true&theme=midnight-purple" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M-Ali-01&layout=compact&theme=midnight-purple" height="165">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=600&lines=🌐+Connect+With+Me+|"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=400&lines=🌐+Connect+With+Me">
 </p>
 
 <p align="center">
@@ -110,6 +122,5 @@ University of  Punjab — Lahore
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FF4081&center=true&vCenter=true&width=600&lines=⭐+ERP+success+is+70%25+people+and+30%25+technology.|;📘+Written+by+M+Ali+Zahid"/>
-</p>
+⭐ *“ERP success is 70% people and 30% technology.”*  
+📘 *Written by **M Ali Zahid***  
