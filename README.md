@@ -244,52 +244,45 @@
 
 <div align="center">
 
-## 💼 Services Available
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 💡 Consultation
+- 📊 Business Process Analysis
+- 🔍 Odoo Feasibility Studies
+- 🎯 Module Recommendations
+- 💰 Cost Estimation
 
-```yaml
-💡 Consultation:
-  - Business Process Analysis
-  - Odoo Feasibility Studies
-  - Module Recommendations
-  - Cost Estimation
+### 🔧 Implementation
+- 🚀 Full Odoo Deployment
+- ⚙️ Module Configuration
+- 🛠️ Customization Support
+- 📦 Data Migration
 
-🔧 Implementation:
-  - Full Odoo Deployment
-  - Module Configuration
-  - Customization Support
-  - Data Migration
+</td>
+<td width="50%" valign="top">
 
-📚 Training:
-  - User Training Sessions
-  - Admin Training
-  - Documentation
-  - Ongoing Support
+### 📚 Training
+- 👥 User Training Sessions
+- 👨‍💼 Admin Training
+- 📖 Documentation
+- 🤝 Ongoing Support
 
-🔄 Support:
-  - Troubleshooting
-  - Performance Optimization
-  - Updates & Upgrades
-  - 24/7 Support Available
-```
+### 🔄 Support
+- 🔧 Troubleshooting
+- ⚡ Performance Optimization
+- 🔄 Updates & Upgrades
+- ⏰ 24/7 Support Available
 
----
-
-<div align="center">
-
-## 🎨 Featured Projects
-
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=malizahid&repo=odoo-implementation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/malizahid/odoo-implementation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=malizahid&repo=erp-solutions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/malizahid/erp-solutions)
+<div align="center">
 
-</div>
-
----
 
 <div align="center">
 
@@ -297,19 +290,30 @@
 
 </div>
 
-<div align="center">
-
-```javascript
-const funFacts = {
-    ☕: "Coffee is my debugging fuel",
-    🎯: "I turn complex business processes into simple Odoo workflows",
-    📈: "Data-driven decision making is my mantra",
-    🌍: "Helping businesses go digital, one Odoo implementation at a time",
-    🚀: "Always learning, always growing"
-};
-```
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="20%">
+☕<br/><b>Coffee Lover</b><br/>
+<sub>Coffee is my debugging fuel</sub>
+</td>
+<td align="center" width="20%">
+🎯<br/><b>Workflow Master</b><br/>
+<sub>Turning complex processes into simple Odoo workflows</sub>
+</td>
+<td align="center" width="20%">
+📈<br/><b>Data-Driven</b><br/>
+<sub>Data-driven decision making is my mantra</sub>
+</td>
+<td align="center" width="20%">
+🌍<br/><b>Digital Transformer</b><br/>
+<sub>Helping businesses go digital, one implementation at a time</sub>
+</td>
+<td align="center" width="20%">
+🚀<br/><b>Lifelong Learner</b><br/>
+<sub>Always learning, always growing</sub>
+</td>
+</tr>
+</table>
 
 ---
 
