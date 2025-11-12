@@ -350,15 +350,6 @@ Training Sessions      2 hrs 40 mins  ██░░░░░░░░░░░░
 
 <div align="center">
 
-### 🐍 Contribution Graph
-
-</div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/malizahid/malizahid/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
