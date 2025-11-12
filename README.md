@@ -15,6 +15,24 @@
 
 <br/><br/>
 
+<!-- Contact Buttons -->
+<h3>📬 Connect With Me</h3>
+
+<a href="https://www.linkedin.com/in/mohammad-ali-zahid-%F0%9F%92%8E-649b1b278/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+</a>
+<a href="https://wa.me/03391681608" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp"/>
+</a>
+<a href="mailto:your.mohammadalizahid.bss@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Gmail"/>
+</a>
+<a href="https://github.com/M-Ali-01" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
 <!-- Profile Views Counter with Glow Effect -->
 <img src="https://komarev.com/ghpvc/?username=malizahid&label=Profile%20Views&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
 
@@ -28,6 +46,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 <table align="center">
 <tr>
 <td width="50%" align="center">
@@ -35,7 +55,7 @@
 ### 👨‍💼 Profile
 **Name:** M Ali Zahid  
 **Role:** Odoo Functional Consultant  
-**Location:** 🇵🇰 Lahore, Punjab, Pakistan
+**Location:** 🇵🇰 Gujrat, Punjab, Pakistan
 
 </td>
 <td width="50%" align="center">
@@ -56,7 +76,6 @@
 ### 💬 *"Thanks for stopping by! Let's transform businesses together!"* 🚀
 
 </div>
-
 
 ---
 
