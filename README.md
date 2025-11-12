@@ -28,26 +28,35 @@
 
 </div>
 
-```python
-class OdooConsultant:
-    def __init__(self):
-        self.name = "M Ali Zahid"
-        self.role = "Odoo Functional Consultant"
-        self.location = "Gujrat, Punjab, Pakistan 🇵🇰"
-        self.expertise = [
-            "ERP Implementation",
-            "Business Process Analysis",
-            "Module Configuration",
-            "Client Training & Support",
-            "System Integration"
-        ]
-        
-    def say_hi(self):
-        print("Thanks for stopping by! Let's transform businesses together! 🚀")
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-me = OdooConsultant()
-me.say_hi()
-```
+### 👨‍💼 Profile
+**Name:** M Ali Zahid  
+**Role:** Odoo Functional Consultant  
+**Location:** 🇵🇰 Lahore, Punjab, Pakistan
+
+</td>
+<td width="50%" align="center">
+
+### 🎯 Expertise
+✨ ERP Implementation  
+✨ Business Process Analysis  
+✨ Module Configuration  
+✨ Client Training & Support  
+✨ System Integration
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💬 *"Thanks for stopping by! Let's transform businesses together!"* 🚀
+
+</div>
+
 
 ---
 
