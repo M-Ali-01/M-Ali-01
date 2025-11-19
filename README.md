@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 3D Glitch Aesthetic Header -->
-<img src="https://capsule-render.vercel.app/api?type=slice&height=250&text=M%20ALI%20ZAHID&fontSize=85&color=0:8B5CF6,50:EC4899,100:06B6D4&fontColor=fff&stroke=FF00FF&strokeWidth=2&animation=blinking&fontAlignY=35&desc=▰▰▰%20ODOO%20FUNCTIONAL%20CONSULTANT%20%7C%20ERP%20IMPLEMENTATION%20SPECIALIST%20▰▰▰&descSize=17&descAlignY=65&rotate=0"/>
+<!-- Sleek Minimal Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=M%20ALI%20ZAHID&fontSize=70&color=0:667eea,100:764ba2&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Odoo%20Functional%20Consultant%20%7C%20ERP%20Implementation%20Specialist&descSize=20&descAlignY=60"/>
 
 <!-- Glitch Line Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
