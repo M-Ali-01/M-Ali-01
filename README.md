@@ -1,11 +1,58 @@
 <div align="center">
 
-<!-- Sleek Minimal Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=M%20ALI%20ZAHID&fontSize=70&color=0:667eea,100:764ba2&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Odoo%20Functional%20Consultant%20%7C%20ERP%20Implementation%20Specialist&descSize=20&descAlignY=60"/>
+<!-- 3D Glitch Aesthetic Header -->
+<img src="https://capsule-render.vercel.app/api?type=slice&height=250&text=M%20ALI%20ZAHID&fontSize=85&color=0:8B5CF6,50:EC4899,100:06B6D4&fontColor=fff&stroke=FF00FF&strokeWidth=2&animation=blinking&fontAlignY=35&desc=▰▰▰%20ODOO%20FUNCTIONAL%20CONSULTANT%20%7C%20ERP%20IMPLEMENTATION%20SPECIALIST%20▰▰▰&descSize=17&descAlignY=65&rotate=0"/>
+
+<!-- Glitch Line Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- 3D Isometric Elements -->
+```diff
+@@                    ╔═══════════════════════════════════════╗                    @@
+@@                    ║   🎯 SYSTEMS ARCHITECT • ERP SPECIALIST   ║                    @@
+@@                    ╚═══════════════════════════════════════╝                    @@
+```
+
+<!-- Glitch Text Effect -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=8B5CF6&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%E2%96%92%E2%96%93%E2%96%88+TRANSFORMING+BUSINESS+WITH+ODOO+%E2%96%88%E2%96%93%E2%96%92;%E2%9A%A1+IMPLEMENTATION+%E2%80%A2+CUSTOMIZATION+%E2%80%A2+OPTIMIZATION+%E2%9A%A1" alt="Glitch Text"/>
+</h1>
+
+<!-- 3D Stats Box -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&text=SYSTEM%20STATUS:%20ONLINE&fontSize=30&color=gradient&customColorList=24&fontColor=00FF41&stroke=00FF41&strokeWidth=1&animation=fadeIn&fontAlignY=50&desc=█████████░░░░░%2065%%20OPERATIONAL&descSize=18&descAlignY=75&descAlign=50"/>
+
+<!-- Geometric Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 <br/>
+
+<div align="center">
+
+### ⟪⟪⟪ TECH STACK MATRIX ⟫⟫⟫
+
+<img src="https://skillicons.dev/icons?i=python,postgresql,docker,git,linux,vscode,github&theme=dark" />
+
+![](https://img.shields.io/badge/ODOO-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=000000)
+![](https://img.shields.io/badge/ERP-FF0080?style=for-the-badge&logo=&logoColor=white&labelColor=000000)
+![](https://img.shields.io/badge/IMPLEMENTATION-00D9FF?style=for-the-badge&logo=&logoColor=black&labelColor=000000)
+
+</div>
+
+<br/>
+
+<!-- Tech Stack with Futuristic Icons -->
+<div align="center">
+  
+### ⚡ TECH ARSENAL ⚡
+
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00ffff?style=for-the-badge&logo=postgresql&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-4facfe?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 <!-- Centered Modern Introduction -->
 <div align="center">
