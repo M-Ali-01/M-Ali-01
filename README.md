@@ -238,7 +238,7 @@ I specialize in helping organizations streamline their processes, improve effici
 **📧 Email:** mohammadalizahid.bss@gmail.com  
 **💬 WhatsApp:** +92 339 1681608  
 **🔗 LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohammad-ali-zahid-%F0%9F%92%8E-649b1b278/)  
-**📍 Location:** Gujrat, Punjab, Pakistan
+**📍 Location:** Lahore, Punjab, Pakistan
 
 <br/>
 
