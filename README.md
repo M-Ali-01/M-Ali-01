@@ -1,364 +1,253 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M%20Ali%20Zahid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Sleek Minimal Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=M%20ALI%20ZAHID&fontSize=70&color=0:667eea,100:764ba2&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Odoo%20Functional%20Consultant%20%7C%20ERP%20Implementation%20Specialist&descSize=20&descAlignY=60"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Odoo+Functional+Consultant+%F0%9F%9A%80;ERP+Implementation+Expert+%F0%9F%92%BC;Business+Process+Optimizer+%E2%9A%A1;Digital+Transformation+Specialist+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+</div>
 
 <br/>
 
-<!-- Animated Badges -->
-<img src="https://img.shields.io/badge/Odoo-Expert-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/ERP-Specialist-00A67E?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Business-Consultant-FF6B6B?style=for-the-badge&logo=lighthouse&logoColor=white&labelColor=1a1b27" />
+<!-- Centered Modern Introduction -->
+<div align="center">
 
-<br/><br/>
+### Transforming Business Operations Through Strategic ERP Implementation
 
-<!-- Contact Buttons -->
-<h3>📬 Connect With Me</h3>
+<p align="center">
+  <em>Driving digital transformation and operational excellence through expert Odoo consulting, process optimization, and innovative ERP solutions</em>
+</p>
 
-<a href="https://www.linkedin.com/in/mohammad-ali-zahid-%F0%9F%92%8E-649b1b278/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+<br/>
+
+<!-- Professional Contact Links -->
+<a href="https://www.linkedin.com/in/mohammad-ali-zahid-%F0%9F%92%8E-649b1b278/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" height="28"/>
 </a>
-<a href="https://wa.me/03391681608" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp"/>
+&nbsp;&nbsp;
+<a href="mailto:mohammadalizahid.bss@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
 </a>
-<a href="mailto:your.mohammadalizahid.bss@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Gmail"/>
+&nbsp;&nbsp;
+<a href="https://wa.me/03391681608">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="28"/>
 </a>
-<a href="https://github.com/M-Ali-01" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
+&nbsp;&nbsp;
+<a href="https://github.com/M-Ali-01">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
 </a>
 
 <br/><br/>
 
-<!-- Profile Views Counter with Glow Effect -->
-<img src="https://komarev.com/ghpvc/?username=malizahid&label=Profile%20Views&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=M-Ali-01&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 💫 About Me
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 👨‍💼 Profile
-**Name:** M Ali Zahid  
-**Role:** Odoo Functional Consultant  
-**Location:** 🇵🇰 Gujrat, Punjab, Pakistan
-
-</td>
-<td width="50%" align="center">
-
-### 🎯 Expertise
-✨ ERP Implementation  
-✨ Business Process Analysis  
-✨ Module Configuration  
-✨ Client Training & Support  
-✨ System Integration
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 💬 *"Thanks for stopping by! Let's transform businesses together!"* 🚀
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Core Expertise
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/workflow.png" width="80"/>
-<br/><br/>
-<b>📊 ERP Implementation</b>
-<br/><br/>
-<sub>Complete Odoo implementation from analysis to deployment</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/business.png" width="80"/>
-<br/><br/>
-<b>💼 Business Analysis</b>
-<br/><br/>
-<sub>Process optimization and requirement gathering</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/training.png" width="80"/>
-<br/><br/>
-<b>🎓 Training & Support</b>
-<br/><br/>
-<sub>Comprehensive training and ongoing support</sub>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🛠️ Odoo Modules Expertise
-
-</div>
-
-<div align="center">
-
-![Sales](https://img.shields.io/badge/Sales-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![Inventory](https://img.shields.io/badge/Inventory-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Purchase](https://img.shields.io/badge/Purchase-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![Accounting](https://img.shields.io/badge/Accounting-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Manufacturing](https://img.shields.io/badge/Manufacturing-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![HR](https://img.shields.io/badge/HR-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Project](https://img.shields.io/badge/Project-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![Invoicing](https://img.shields.io/badge/Invoicing-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![eCommerce](https://img.shields.io/badge/eCommerce-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![POS](https://img.shields.io/badge/Point_of_Sale-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Website](https://img.shields.io/badge/Website-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Tech Stack
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 GitHub Analytics
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malizahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malizahid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malizahid&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malizahid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff" />
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malizahid&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-<div align="center">
-
-## 🎯 What I Offer
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Implementation Services
-- ✅ Complete Odoo Setup
-- ✅ Module Configuration
-- ✅ Data Migration
-- ✅ Custom Workflows
-- ✅ Integration Solutions
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Consulting Services
-- ✅ Business Analysis
-- ✅ Process Optimization
-- ✅ Gap Analysis
-- ✅ Best Practices
-- ✅ ROI Maximization
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malizahid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourphonenumber)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 💡 Consultation
-- 📊 Business Process Analysis
-- 🔍 Odoo Feasibility Studies
-- 🎯 Module Recommendations
-- 💰 Cost Estimation
-
-### 🔧 Implementation
-- 🚀 Full Odoo Deployment
-- ⚙️ Module Configuration
-- 🛠️ Customization Support
-- 📦 Data Migration
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Training
-- 👥 User Training Sessions
-- 👨‍💼 Admin Training
-- 📖 Documentation
-- 🤝 Ongoing Support
-
-### 🔄 Support
-- 🔧 Troubleshooting
-- ⚡ Performance Optimization
-- 🔄 Updates & Upgrades
-- ⏰ 24/7 Support Available
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<div align="center">
-
-
-<div align="center">
-
-## ⚡ Fun Facts
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-☕<br/><b>Coffee Lover</b><br/>
-<sub>Coffee is my debugging fuel</sub>
-</td>
-<td align="center" width="20%">
-🎯<br/><b>Workflow Master</b><br/>
-<sub>Turning complex processes into simple Odoo workflows</sub>
-</td>
-<td align="center" width="20%">
-📈<br/><b>Data-Driven</b><br/>
-<sub>Data-driven decision making is my mantra</sub>
-</td>
-<td align="center" width="20%">
-🌍<br/><b>Digital Transformer</b><br/>
-<sub>Helping businesses go digital, one implementation at a time</sub>
-</td>
-<td align="center" width="20%">
-🚀<br/><b>Lifelong Learner</b><br/>
-<sub>Always learning, always growing</sub>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📊 Weekly Development Breakdown
-
-</div>
-
-<!--START_SECTION:waka-->
-```text
-Odoo Configuration    12 hrs 30 mins  ████████████░░░░░░░░░   48.52 %
-Client Meetings        6 hrs 15 mins  ██████░░░░░░░░░░░░░░░   24.27 %
-Documentation          4 hrs 20 mins  ████░░░░░░░░░░░░░░░░░   16.84 %
-Training Sessions      2 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░   10.37 %
+## 👤 Professional Profile
+
+```yaml
+name: M Ali Zahid
+role: Senior Odoo Functional Consultant
+location: Gujrat, Punjab, Pakistan
+specialization: Enterprise Resource Planning & Digital Transformation
+focus: Business Process Optimization, ERP Implementation, System Integration
+availability: Open to consulting projects and collaborations
 ```
-<!--END_SECTION:waka-->
-
----
 
 <div align="center">
-
-### 💭 Quote of the Day
-
-</div>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20implement%20it&author=M%20Ali%20Zahid" />
+  
+**📍 Based in Pakistan** • **🌐 Serving Global Clients** • **💼 5+ Years Experience**
 
 </div>
 
 ---
 
-<div align="center">
+## 🎯 Core Competencies
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Strategic Consulting
+- Enterprise needs assessment and gap analysis
+- Business process re-engineering and optimization
+- ERP feasibility studies and ROI analysis
+- Change management and stakeholder engagement
+- Digital transformation roadmap development
+
+### 🔷 Technical Implementation
+- End-to-end Odoo deployment and configuration
+- Multi-module integration and customization
+- Legacy system migration and data transformation
+- API integration and third-party connectivity
+- Performance optimization and scalability planning
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 Training & Enablement
+- Comprehensive user and administrator training programs
+- Custom documentation and knowledge base creation
+- Best practices workshops and process training
+- Ongoing mentorship and support programs
+- Train-the-trainer initiatives for sustained adoption
+
+### 🔷 Support & Optimization
+- Post-implementation support and maintenance
+- Continuous process improvement initiatives
+- System health monitoring and optimization
+- Version upgrades and migration management
+- Troubleshooting and issue resolution
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 🚀 Odoo Module Expertise
+
 <div align="center">
+
+**Sales Management** • **Customer Relationship Management** • **Inventory & Warehouse** • **Purchase Management** • **Financial Accounting** • **Manufacturing Operations** • **Human Resources** • **Project Management** • **Invoicing & Billing** • **eCommerce Solutions** • **Point of Sale** • **Website Builder** • **Marketing Automation** • **Quality Management** • **Helpdesk & Support** • **Field Service** • **Studio & Customization**
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,postgresql,linux,docker,git,vscode,github,postman&perline=8" />
+</div>
+
+---
+
+## 📊 Implementation Approach
+
+```mermaid
+graph LR
+    A[Discovery & Analysis] --> B[Solution Design]
+    B --> C[Configuration & Setup]
+    C --> D[Data Migration]
+    D --> E[Testing & UAT]
+    E --> F[Training & Go-Live]
+    F --> G[Support & Optimization]
+    
+    style A fill:#667eea,stroke:#764ba2,color:#fff
+    style B fill:#667eea,stroke:#764ba2,color:#fff
+    style C fill:#667eea,stroke:#764ba2,color:#fff
+    style D fill:#667eea,stroke:#764ba2,color:#fff
+    style E fill:#667eea,stroke:#764ba2,color:#fff
+    style F fill:#667eea,stroke:#764ba2,color:#fff
+    style G fill:#667eea,stroke:#764ba2,color:#fff
+```
+
+---
+
+## 💼 Service Offerings
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📋 Consultation
+**Business Analysis**
+- Requirements gathering
+- Process mapping
+- Gap analysis
+- Solution design
+- Cost-benefit analysis
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ Implementation
+**System Deployment**
+- Module configuration
+- Workflow setup
+- Data migration
+- Integration setup
+- Quality assurance
+
+</td>
+<td width="33%" align="center">
+
+### 🎓 Training
+**Knowledge Transfer**
+- User training
+- Admin workshops
+- Documentation
+- Video tutorials
+- Ongoing support
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Ali-01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ali-01&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ali-01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Ali-01&theme=radical&utcOffset=5" />
+</div>
+
+---
+
+## 🎖️ Professional Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=M-Ali-01&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews)
+
+</div>
+
+---
+
+## 💡 Value Proposition
+
+<div align="center">
+
+| **Strategic Thinking** | **Technical Expertise** | **Business Acumen** | **Client Focus** |
+|:--:|:--:|:--:|:--:|
+| Aligning technology with business objectives | Deep Odoo platform knowledge | Understanding of diverse industries | Dedicated to client success |
+| Long-term scalability planning | Custom solutions development | ROI-focused implementations | Clear communication |
+| Innovation-driven approach | Best practices implementation | Operational efficiency expertise | Responsive support |
+
+</div>
+
+---
+
+## 📞 Let's Connect
+
+<div align="center">
+
+### Ready to Transform Your Business Operations?
+
+I specialize in helping organizations streamline their processes, improve efficiency, and drive growth through strategic Odoo implementations. Whether you're looking to implement a new ERP system, optimize existing processes, or need expert consulting on business operations, I'm here to help.
+
+<br/>
+
+**📧 Email:** mohammadalizahid.bss@gmail.com  
+**💬 WhatsApp:** +92 339 1681608  
+**🔗 LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohammad-ali-zahid-%F0%9F%92%8E-649b1b278/)  
+**📍 Location:** Gujrat, Punjab, Pakistan
+
+<br/>
+
+---
+
+<sub>© 2024 M Ali Zahid • Odoo Functional Consultant • Crafted with precision and passion</sub>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-### ⭐ From [M Ali Zahid](https://github.com/malizahid) with 💜
-
-**Let's Transform Your Business with Odoo! 🚀**
 
 </div>
