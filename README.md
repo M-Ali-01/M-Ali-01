@@ -45,18 +45,28 @@
 
 ## 👤 Professional Profile
 
-```yaml
-name: M Ali Zahid
-role: Senior Odoo Functional Consultant
-location: Gujrat, Punjab, Pakistan
-specialization: Enterprise Resource Planning & Digital Transformation
-focus: Business Process Optimization, ERP Implementation, System Integration
-availability: Open to consulting projects and collaborations
-```
+<table>
+<tr>
+<td width="50%">
+
+**Name:** M Ali Zahid  
+**Role:** Senior Odoo Functional Consultant  
+**Location:** Lahore, Punjab, Pakistan  
+
+</td>
+<td width="50%">
+
+**Specialization:** Enterprise Resource Planning & Digital Transformation  
+**Focus:** Business Process Optimization, ERP Implementation, System Integration  
+**Availability:** Open to consulting projects and collaborations
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   
-**📍 Based in Pakistan** • **🌐 Serving Global Clients** • **💼 5+ Years Experience**
+**📍 Based in Pakistan** • **🌐 Serving Global Clients** • **💼 Expert Consultant**
 
 </div>
 
