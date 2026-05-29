@@ -258,11 +258,11 @@ graph LR
 
 ---
 
-## 🎖️ Professional Achievements
+# 🐍 Contribution Snake
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=M-Ali-01&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
